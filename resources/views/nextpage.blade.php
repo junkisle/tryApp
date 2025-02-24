@@ -45,6 +45,7 @@
         <img src="{{ asset('images/Avvanz.PNG') }}" alt="Image to fade out">
         </div>
     <h1>This is the Nextpage</h1>
+    <p>hello</p>
 
 
     <script>
